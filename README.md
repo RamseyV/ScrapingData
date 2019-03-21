@@ -6,7 +6,7 @@ The third problem accepts a starting and ending year to scrape http://www.tdcj.s
 The last problem finds and lists the active senators that have the most Twitter followers, the fewest Twitter followers, and how many people retweeted and liked the 10 most recent tweets by the senator.
 
 
-## Concepts Learned
+## Concepts 
 * Webscraping with BeautifulSoup 4.
 * Jupyter widgets.
 * Scraping Twitter with tweepy.
